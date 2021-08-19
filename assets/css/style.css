@@ -11,6 +11,16 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -46,12 +56,21 @@ header nav ul li a {
 }
 
 /*HERO STYLE START*/
+/*HERO1*/
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+}
+
+/*HERO2*/
+.hero-secondary {
+    margin: 20px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
 }
 
 .hero-form {
@@ -61,6 +80,7 @@ header nav ul li a {
     color: #024e76;
     border: solid 3px #024e76;
     position: absolute;
+    top: 50px;
     bottom: 120px;
     right: 140px;
     margin: 5px 0 15px 0;
