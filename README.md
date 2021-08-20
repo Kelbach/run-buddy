@@ -13,4 +13,4 @@ https://kelbach.github.io/run-buddy/
 ## Contribution
 Made with <3 by Kevin Kelbach
 
-### (c)2021 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc
