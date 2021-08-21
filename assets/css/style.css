@@ -73,6 +73,14 @@ header nav ul li a {
     color: red;
 }
 
+.hero-text {
+    float:right;
+    text-align: right;
+}
+
+.hero-text h3 {
+    align:top;
+}
 .hero-form {
     background-color: #fce138;
     padding: 20px;
